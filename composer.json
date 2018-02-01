@@ -1,5 +1,5 @@
 {
-    "name": "phpexcel/phpexcel",
+    "name": "netpositive/phpexcel",
     "description": "PHPExcel - OpenXML - Create Excel2007 documents in PHP - Spreadsheet engine",
     "keywords": [ "excel", "xls" ],
     "homepage": "http://phpexcel.codeplex.com",
